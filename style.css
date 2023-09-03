@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(lightgreen , blue );
+    background-attachment:fixed;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    line-height: 55px;
+}
+.colum{
+    background: linear-gradient(rgb(241,177,140), #09a726);
+    border-radius: 5px;
+    text-decoration: none;
+}
+#logo{
+    text-align: center;
+    background-color: rgb(red, green, blue);
+}
+a.colum:hover{
+    background: bisque;
+}
